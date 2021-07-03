@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/TEST.dir/main.cpp.o CMakeFiles/TEST.dir/Hospital.cpp.o CMakeFiles/TEST.dir/NodoPila.cpp.o CMakeFiles/TEST.dir/Pacientes.cpp.o CMakeFiles/TEST.dir/Pila.cpp.o -o TEST.exe -Wl,--out-implib,libTEST.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
